@@ -1,1 +1,0 @@
-# panorama-with-sift
