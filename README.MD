@@ -65,7 +65,7 @@ This project is under license. Acess the file [LICENSE](https://github.com/souza
 
 ## 🔵 References
 
-* [Introduction to SIFT (Scale-Invariant Feature Transform) ](https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html)
+* [🔵 Introduction to SIFT (Scale-Invariant Feature Transform) ](https://docs.opencv.org/4.x/da/df5/tutorial_py_sift_intro.html)
 
 * 📄 LOWE, David G. [**Distinctive Image Features from Scale-Invariant Keypoints**](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf). International Journal of Computer Vision, v. 60, n. 2, p. 91–110, 2004.
 
@@ -73,11 +73,9 @@ This project is under license. Acess the file [LICENSE](https://github.com/souza
 
 * 📽️ [SIFT Detector | SIFT Detector](https://www.youtube.com/watch?v=ram-jbLJjFg&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cylrhx&index=16&ab_channel=FirstPrinciplesofComputerVision)
 
-* [OpenCV: Feature Matching + Homography to find Objects ](https://docs.opencv.org/3.4/d1/de0/tutorial_py_feature_homography.html)
+* [🔵 OpenCV: Feature Matching + Homography to find Objects ](https://docs.opencv.org/3.4/d1/de0/tutorial_py_feature_homography.html)
 
 *  📄 D. Li, D. Han, X. Zhang and L. Zhang, [**Panoramic image mosaic technology based on SIFT algorithm in power monitoring**](https://ieeexplore.ieee.org/document/9010294), 2019 6th International Conference on Systems and Informatics (ICSAI), 2019, pp. 1329-1333, doi: 10.1109/ICSAI48974.2019.9010294.
 
+* [🔵 stackoverflow: how to show the whole image when using opencv warpperspective](https://stackoverflow.com/questions/13063201/how-to-show-the-whole-image-when-using-opencv-warpperspective/20355545#20355545)
 
-* [stackoverflow: how to show the whole image when using opencv warpperspective](https://stackoverflow.com/questions/13063201/how-to-show-the-whole-image-when-using-opencv-warpperspective/20355545#20355545)
-
-<div align="right"><a href="https://github.com/souzaitor/EnC/blob/main/README.md#projects"> ⬅️ Return to projects list</a></div>
