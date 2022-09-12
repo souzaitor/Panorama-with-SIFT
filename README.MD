@@ -61,7 +61,7 @@ Before you start, make sure you've met the following requirements:
 
 ## 🔵 License
 
-This project is under license. Acess the file [LICENSE](https://github.com/souzaitor/EnC/blob/d5136434141fad0acd34484b29ca4d97b3cc28b6/LICENSE) for more details.
+This project is under license. Acess the file [LICENSE](https://github.com/souzaitor/panorama-with-sift/edit/main/LICENSE) for more details.
 
 ## 🔵 References
 
