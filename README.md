@@ -19,6 +19,7 @@ pip install -r requirements.txt
 
 * Install requirements
 * Import [panorama.py](https://github.com/souzaitor/EnC/blob/d5136434141fad0acd34484b29ca4d97b3cc28b6/2021-1/Computer%20Vision/Panorama/panorama.py)
+* The folder [pano](https://github.com/souzaitor/panorama-with-sift/tree/main/pano) show the results
 
 ## 🔵 Using Panoramic Construction with SIFT on terminal
 
@@ -84,5 +85,3 @@ This project is under license. Acess the file [LICENSE](https://github.com/souza
 
 
 * [stackoverflow: how to show the whole image when using opencv warpperspective](https://stackoverflow.com/questions/13063201/how-to-show-the-whole-image-when-using-opencv-warpperspective/20355545#20355545)
-
-<div align="right"><a href="https://github.com/souzaitor/EnC/blob/main/README.md#projects"> ⬅️ Return to projects list</a></div>
