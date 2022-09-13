@@ -1,5 +1,4 @@
 <h1 align="center"> Panoramic Construction with SIFT </h1>
-<h3 align="center"> Project Assignment 1</h3>
 <h3 align="center"> 1001532 - Computer Vision (2022/1)</h3>
 <h4 align="center"> <a href="https://site.dc.ufscar.br/"> DC - Department of Computing</a>  </h4>
 <h4 align="center"> <a href="https://www.ufscar.br/">UFSCar - Universidade Federal de São Carlos</a>  </h4>
