@@ -4,10 +4,10 @@ import os
 import numpy as np
 
 # Read image sets
-set1 = panorama.ler_conjunto_imagens("./set1")
-set2 = panorama.ler_conjunto_imagens("../set2")
-set3 = panorama.ler_conjunto_imagens("../set3")
-set4 = panorama.ler_conjunto_imagens("../set4")
+set1 = panorama.ler_conjunto_imagens("set1")
+set2 = panorama.ler_conjunto_imagens("set2")
+set3 = panorama.ler_conjunto_imagens("set3")
+set4 = panorama.ler_conjunto_imagens("set4")
 
 # Compute pano imagens
 pano1 = panorama.construir_panoramica(set1)
