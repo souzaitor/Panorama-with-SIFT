@@ -1,19 +1,19 @@
-import panorama 
+import pano 
 import cv2
 import os
 import numpy as np
 
 # Read image sets
-set1 = panorama.ler_conjunto_imagens("set1")
-set2 = panorama.ler_conjunto_imagens("set2")
-set3 = panorama.ler_conjunto_imagens("set3")
-set4 = panorama.ler_conjunto_imagens("set4")
+set1 = pano.ler_conjunto_imagens("Conjunto1")
+set2 = pano.ler_conjunto_imagens("Conjunto2")
+set3 = pano.ler_conjunto_imagens("Conjunto3")
+set4 = pano.ler_conjunto_imagens("Conjunto4")
 
 # Compute pano imagens
-pano1 = panorama.construir_panoramica(set1)
-pano2 = panorama.construir_panoramica(set2)
-pano3 = panorama.construir_panoramica(set3)
-pano4 = panorama.construir_panoramica(set4)
+pano1 = pano.construir_panoramica(set1)
+pano2 = pano.construir_panoramica(set2)
+pano3 = pano.construir_panoramica(set3)
+pano4 = pano.construir_panoramica(set4)
 
 # Float conversion
 pano1_float32 = np.float32(pano1)
@@ -28,7 +28,6 @@ pano3 = cv2.cvtColor(pano3_float32, cv2.COLOR_BGR2RGB)
 pano4 = cv2.cvtColor(pano4_float32, cv2.COLOR_BGR2RGB)
 
 # Save pano images
-os.chdir("../")
 cv2.imwrite("pano/pano1.jpeg", pano1)
 cv2.imwrite("pano/pano2.jpeg", pano2)
 cv2.imwrite("pano/pano3.jpeg", pano3)
