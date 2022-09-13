@@ -20,7 +20,7 @@ pip install -r requirements.txt
 * Install requirements
 * Import [panorama.py](https://github.com/souzaitor/EnC/blob/d5136434141fad0acd34484b29ca4d97b3cc28b6/2021-1/Computer%20Vision/Panorama/panorama.py)
 
-## 🔵 Using Panoramic Construction with SIFT
+## 🔵 Using Panoramic Construction with SIFT on terminal
 
 * See [example.py](https://github.com/souzaitor/EnC/blob/d5136434141fad0acd34484b29ca4d97b3cc28b6/2021-1/Computer%20Vision/Panorama/example.py) for how use the module
 
@@ -36,6 +36,10 @@ pip install -r requirements.txt
 ### Panoramic of image set 4
 ![](pano/pano4.jpeg)
 
+## 🔵 Using Panoramic Construction with SIFT on notebook
+* [Apresentação.ipynb](https://github.com/souzaitor/panorama-with-sift/blob/main/Apresenta%C3%A7%C3%A3o.ipynb) execute the project on python notebook
+* [Teste_Ruído.ipynb](https://github.com/souzaitor/panorama-with-sift/blob/main/Teste_Ru%C3%ADdo.ipynb) executes noise test on the implementation 
+* [Sintônia_de_Parâmetros.ipynb](https://github.com/souzaitor/panorama-with-sift/blob/main/Sint%C3%B4nia_de_Par%C3%A2metros.ipynb) executes some parameter tunning and analyses
 
 ## 🔵 Authors
 
