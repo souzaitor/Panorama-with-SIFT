@@ -5,6 +5,9 @@
 
 
 ## 🔵 Introduction
+
+Practical activity proposed during the course of Computer Vision (1001532), offered by the Department of Computing at UFSCar in semester 2022/1.
+
 This project stitches images together to create a Panorama. Images are taken from different perspectives and transformed to fit together by using SIFT feature detection and RANSAC algorithm for homography transformations
 
 ## 🔵 Requirements
